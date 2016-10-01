@@ -2,9 +2,9 @@
 
 # Installation
 
-Throught composer:
+Through composer:
 ```
-composer require rickynroses87/validator
+composer require almendra/validators
 ```
 
 # How to use it
