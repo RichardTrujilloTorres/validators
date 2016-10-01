@@ -1,0 +1,24 @@
+{
+    "name": "almendra/validators",
+    "version": "master",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4" : {
+            "Almendra\\" : "src/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.1",
+        "illuminate/database": "^5.3",
+        "twig/twig": "^1.24",
+        "vlucas/phpdotenv": "^2.4",
+        "pimple/pimple": "^3.0",
+        "psr/http-message": "^1.0",
+        "mindplay/annotations": "^1.3",
+        "slim/slim": "^3.5",
+        "respect/validation": "^1.1",
+        "siriusphp/upload": "^2.1",
+        "codeguy/upload": "^1.3",
+        "fuelphp/upload": "^2.0"
+    }
+}
