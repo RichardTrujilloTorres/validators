@@ -51,5 +51,5 @@ $result = $validator
 ## Support
 
 Currently, the validator supports the following types:
-	integer, string
+	integer, string, double, float, file
 

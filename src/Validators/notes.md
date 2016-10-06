@@ -21,3 +21,6 @@ Validator
 		range
 		...
 
+
+
+$validator -> type($value) -> has($key)
