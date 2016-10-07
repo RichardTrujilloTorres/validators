@@ -3,6 +3,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/RickyNRoses87/validators/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/RickyNRoses87/validators/?branch=master)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/7353a113-94d6-4f96-a171-e7e6eb9fed99/big.png)](https://insight.sensiolabs.com/projects/7353a113-94d6-4f96-a171-e7e6eb9fed99)
 
+
 # Installation
 
 Through composer:
