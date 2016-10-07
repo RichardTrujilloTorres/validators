@@ -1,5 +1,6 @@
 
 [![Build Status](https://travis-ci.org/RickyNRoses87/validators.svg?branch=master)](https://travis-ci.org/RickyNRoses87/validators)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/RickyNRoses87/validators/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/RickyNRoses87/validators/?branch=master)
 
 # Installation
 
