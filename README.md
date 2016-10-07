@@ -1,4 +1,5 @@
 
+https://travis-ci.org/RickyNRoses87/validators.svg?branch=master
 
 # Installation
 
