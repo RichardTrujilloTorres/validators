@@ -46,8 +46,6 @@ use Almendra\Validators\Interfaces\ComparisonInterface;
         }
 
         throw new \Exception('Invalid name or name not defined for primitive type.');
-
-        // @todo attempts to determinate it's own type
     }
 
      public function validate()
