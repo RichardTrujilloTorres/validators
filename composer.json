@@ -1,6 +1,6 @@
 {
     "name": "almendra/validators",
-    "description": "A simple type validator."
+    "description": "A simple type validator.",
     "version": "master",
     "minimum-stability": "dev",
     "license": "MIT",
